@@ -32,7 +32,7 @@ Content-Type: application/json
 {
   "clientName": "Carlos", 
   "food": "Caesar Salad", 
-  "cant": "3"
+  "cant": "9"
 }
 
 ###
