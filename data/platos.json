@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "price": 15.99,
+      "type": "pasta"
+    },
+    {
+      "id": "2",
+      "name": "Caesar Salad",
+      "price": 12.50,
+      "type": "salad"
+    },
+    {
+      "id": "3",
+      "name": "Grilled Salmon",
+      "price": 22.00,
+      "type": "meat"
+    },
+    {
+      "id": "4",
+      "name": "Oatmeal with Berries",
+      "price": 8.75,
+      "type": "cereal"
+    }
+  ]
+  
