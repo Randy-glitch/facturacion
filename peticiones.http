@@ -31,8 +31,8 @@ Content-Type: application/json
 
 {
   "clientName": "Carlos", 
-  "food": "Caesar Salad", 
-  "cant": "9"
+  "food": [{"name":"Caesar Salad", "cant": "9"}, {"name":"Oatmeal with Berries", "cant": "4"}] 
+
 }
 
 ###

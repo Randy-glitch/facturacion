@@ -1,6 +1,6 @@
 const express = require('express');
 const bcrypt = require('bcryptjs');
-const {registerSchema} = require('../controllers/auth');
+const {registerSchema} = require('../controllers/SchemasZod');
 const users = require('../data/users');
 const jwt = require('jsonwebtoken');
 const { v4: uuidv4 } = require('uuid')
